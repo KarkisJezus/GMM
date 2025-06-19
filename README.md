@@ -1,0 +1,2 @@
+# GMM
+Giliojo mokymosi metodai
